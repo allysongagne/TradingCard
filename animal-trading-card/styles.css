@@ -1,0 +1,36 @@
+body
+{
+    margin: 2em;
+    font-family: sans-serif;
+}
+
+.brd
+{
+    border-style: solid;
+    border-color: #808080;
+    border-width: thin;
+    box-shadow: 5px 5px 5px #ccc;
+    padding: 1em;
+}
+
+img
+{
+    box-shadow: 5px 5px 20px #ccc;
+    margin-bottom: 7px;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+.block
+{
+    border: 1em solid;
+    display: block;
+    border-color: #808080;
+    border-width: thin;
+    box-shadow: 5px 5px 5px #ccc;
+    border-radius: 2px;
+    padding-left: 1em;
+}
